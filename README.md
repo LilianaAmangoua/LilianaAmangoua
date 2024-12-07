@@ -6,7 +6,7 @@
 
 🎯 **Objectif :** Poursuivre mes études avec une licence professionnelle Métiers de l'informatique.
 
-🔗 Retrouvez-moi sur [LinkedIn]([https://www.linkedin.com/in/votre-profil](https://www.linkedin.com/in/liliana-amangoua-developpeuse-web-alternance/).
+🔗 Retrouvez-moi sur [LinkedIn](https://www.linkedin.com/in/liliana-amangoua-developpeuse-web-alternance/).
 
 📬 N'hésitez pas à me contacter pour des opportunités de collaboration ou des projets professionnels !
 
