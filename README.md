@@ -1,6 +1,6 @@
 Bonjour, je suis **Liliana** !
 
-En formation pour le titre pro Développeur Web et Web Mobile (bac+2), je me spécialise en Spring Boot et Angular tout en renforçant mes bases en React. J’aime particulièrement le back-end pour son côté structuré et logique, et j’affine mes compétences en travaillant sur des projets concrets.
+En formation pour le titre professionnel Développeur Web et Web Mobile (bac+2), je me spécialise en Spring Boot et Angular tout en renforçant mes bases en React. J’aime particulièrement le back-end pour son côté structuré et logique, et j’affine mes compétences en travaillant sur des projets concrets.
 
 💡 Projets récents :
 
