@@ -1,15 +1,20 @@
-Bonjour, je suis **Liliana** !
+Bonjour, je suis Liliana !
 
-En formation pour le titre professionnel Développeur Web et Web Mobile (bac+2), je me spécialise en Spring Boot et Angular tout en renforçant mes bases en React. J’aime particulièrement le back-end pour son côté structuré et logique, et j’affine mes compétences en travaillant sur des projets concrets.
+Actuellement en formation pour le titre de Développeur Web et Web Mobile, je me spécialise en Spring Boot et j'enrichis mes compétences en React et Angular.
+J’ai une vraie passion pour le back-end et j’apprécie particulièrement la logique et la robustesse des systèmes. Je suis constamment en train de développer mes compétences avec des projets concrets pour atteindre mon objectif de travailler sur des systèmes complexes et à grande échelle.
 
-💡 Projets récents :
+💡 Projets en cours :
 
-**Cinemania** : Développement d’une API en Spring Boot pour gérer les favoris et catégories de films, avec un front en React & MUI.
-**Odyssea** (en cours) : Création d’une plateforme pour explorer et générer des itinéraires de voyage, en équipe sous Scrum.
+Odyssea : Développement d'une plateforme pour générer des itinéraires de voyage personnalisés avec Spring Boot et React (Travail en équipe sous Scrum).
 
-En parallèle, j’explore Angular sur un projet personnel pour structurer mes compétences en front-end.
+BackFeed : Conception et développement d’une API sécurisée à destination des product owners pour collecter et gérer les retours utilisateurs (Angular / Spring Boot).
 
-🎯 Objectif : À la rentrée, je poursuis ma formation en Conception et Développement d’Applications (bac+3) en alternance.
+🔍 Ce qui m’intéresse particulièrement :
+Je souhaite approfondir mes compétences sur des architectures back-end robustes, comme celles des systèmes bancaires, d’automatisation de processus et d’autres applications nécessitant des performances élevées et une grande sécurité.
 
-🔗 Retrouvez-moi sur [LinkedIn](https://www.linkedin.com/in/liliana-amangoua-developpeuse-web-alternance/). N'hésitez pas à me contacter pour discuter ou pour des opportunités de collaboration !
+🎯 Objectif :
+Poursuivre ma formation en Conception et Développement d’Applications (Bac+3) en alternance, et affiner mes compétences sur des technologies back-end, notamment Spring Boot, tout en maîtrisant les meilleures pratiques d'architecture et de sécurité.
+
+🔗 Retrouvez-moi sur [LinkedIn](https://www.linkedin.com/in/liliana-amangoua-developpeuse-web-alternance/)
+N'hésitez pas à me contacter pour discuter ou pour des opportunités de collaboration !
 
