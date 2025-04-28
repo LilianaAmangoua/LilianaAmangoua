@@ -5,7 +5,7 @@ J’ai une vraie passion pour le back-end et j’apprécie particulièrement la 
 
 💡 Projets en cours :
 
-Odyssea : Développement d'une plateforme pour générer des itinéraires de voyage personnalisés avec Spring Boot et React (Travail en équipe sous Scrum).
+Odyssea : Développement d'une plateforme pour générer des itinéraires de voyage personnalisés avec [Spring Boot](https://github.com/AshleyL45/back---odyssea) et [React](https://github.com/AshleyL45/front---odyssea) (Travail en équipe sous Scrum).
 
 BackFeed : Conception et développement d’une API sécurisée à destination des product owners pour collecter et gérer les retours utilisateurs (Angular / Spring Boot).
 
