@@ -1,13 +1,13 @@
 Bonjour, je suis Liliana !
 
-Actuellement en formation pour le titre de Développeur Web et Web Mobile, je me spécialise en Spring Boot et j'enrichis mes compétences en React et Angular.
+Actuellement en formation pour le titre de Développeur Web et Web Mobile, je me spécialise en Spring Boot et j'enrichis mes compétences en React.
 J’ai une vraie passion pour le back-end et j’apprécie particulièrement la logique et la robustesse des systèmes. Je suis constamment en train de développer mes compétences avec des projets concrets pour atteindre mon objectif de travailler sur des systèmes complexes et à grande échelle.
 
 💡 Projets en cours :
 
 Odyssea : Développement d'une plateforme pour générer des itinéraires de voyage personnalisés avec [Spring Boot](https://github.com/AshleyL45/back---odyssea) et [React](https://github.com/AshleyL45/front---odyssea) (Travail en équipe sous Scrum).
 
-BackFeed : Conception et développement d’une API sécurisée à destination des product owners pour collecter et gérer les retours utilisateurs (Angular / Spring Boot).
+BackFeed : Conception et développement d’une API sécurisée à destination des product owners pour collecter et gérer les retours utilisateurs (React / Spring Boot).
 
 🔍 Ce qui m’intéresse particulièrement :
 Je souhaite approfondir mes compétences sur des architectures back-end robustes, comme celles des systèmes bancaires, d’automatisation de processus et d’autres applications nécessitant des performances élevées et une grande sécurité.
